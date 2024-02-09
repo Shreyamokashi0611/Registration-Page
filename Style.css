@@ -1,0 +1,32 @@
+label
+{
+    padding-top: 12px;
+    font-weight: bold;
+}
+form
+{
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    border: 3px solid black ;
+    background-color: rgb(174, 224, 230);
+}
+marquee
+{
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    /* text-align: center; */
+    align-items: center;
+}
+body
+{
+    background-color: rgb(226, 152, 129);
+}
+p
+{
+    /* background-color: rgb(226, 152, 129); */
+    /* font-size: 30px;
+    text-align: center; */
+}
